@@ -1,0 +1,11 @@
+Test Data file : S:\Dept 1\Quality Assurance\testdata\\LabPanel2022\Aug\Fri26\L03-2-CYCLE TEST-Switch   no.2-1055.tdms					
+DATE	TIME				
+2022/08/26	11:08 AM				
+SETTINGS	NAME	DESCRIPTION	CYCLES	T-RISE mins	T-RISE deg C
+	FCU (Plunger with less flash)	Switch   no.2	2989	60	45
+RESULT	CYCLE	MINS	STATUS		
+	76	13	T-RISE HI		
+TEST	AMPS	VOLTS	PF		
+	12	255	1.00		
+TEMP RISE	LIVE	NEUTRAL			
+	29	48			

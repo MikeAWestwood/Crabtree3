@@ -1,0 +1,11 @@
+Test Data file : S:\Dept 1\Quality Assurance\testdata\\LabPanel2022\Aug\Wed03\L04-1-CYCLE TEST-switch socket no.3 (RHS)-0812.tdms					
+DATE	TIME				
+2022/08/03	04:04 PM				
+SETTINGS	NAME	DESCRIPTION	CYCLES	T-RISE mins	T-RISE deg C
+	4306 bumped	switch socket no.3 (RHS)	15000	60	45
+RESULT	CYCLE	MINS	STATUS		
+	2811	468	AMPS LO		
+TEST	AMPS	VOLTS	PF		
+	7	4	-0.37		
+TEMP RISE	LIVE	NEUTRAL			
+	-4	-7			

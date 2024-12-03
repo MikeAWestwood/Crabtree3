@@ -1,0 +1,7 @@
+UPA USB pin	Colour		Name		PIC Pin
+
+	1	N/C		MCLR/Vpp	   4
+	2	Black		CLOCK		   12	
+	6	Yellow		DATA		   13	
+	9	Purple		VDD (power)	   14	
+	5	Grey		VSS (GND)	   5 

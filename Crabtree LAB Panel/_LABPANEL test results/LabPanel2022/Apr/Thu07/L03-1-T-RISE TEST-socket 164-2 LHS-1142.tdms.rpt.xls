@@ -1,0 +1,11 @@
+Test Data file : S:\Dept 1\Quality Assurance\testdata\\LabPanel2022\Apr\Thu07\L03-1-T-RISE TEST-socket 164-2 LHS-1142.tdms					
+DATE	TIME				
+2022/04/07	12:10 PM				
+SETTINGS	NAME	DESCRIPTION	CYCLES	T-RISE mins	T-RISE deg C
+	15233/601 Topaz combo	socket 164-2 LHS	5000	60	45
+RESULT	CYCLE	MINS	STATUS		
+	541	27	T-RISE HI		
+TEST	AMPS	VOLTS	PF		
+	26	252	0.51		
+TEMP RISE	LIVE	NEUTRAL			
+	45	42			

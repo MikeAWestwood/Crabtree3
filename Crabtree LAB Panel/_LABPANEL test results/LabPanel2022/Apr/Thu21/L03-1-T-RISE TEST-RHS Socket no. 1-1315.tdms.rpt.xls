@@ -1,0 +1,11 @@
+Test Data file : S:\Dept 1\Quality Assurance\testdata\\LabPanel2022\Apr\Thu21\L03-1-T-RISE TEST-RHS Socket no. 1-1315.tdms					
+DATE	TIME				
+2022/04/21	02:30 PM				
+SETTINGS	NAME	DESCRIPTION	CYCLES	T-RISE mins	T-RISE deg C
+	15232/601 Duo Topaz	RHS Socket no. 1	15000	60	45
+RESULT	CYCLE	MINS	STATUS		
+	360	60	T-RISE PASS		
+TEST	AMPS	VOLTS	PF		
+	26	257	0.64		
+TEMP RISE	LIVE	NEUTRAL			
+	36	25			

@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Draft//EN">
+<HTML>
+<HEAD>
+<Script Language="JavaScript">
+var userAgent = navigator.userAgent;
+var versionOffset = userAgent.indexOf("Chrome");
+
+if (versionOffset != -1)
+{
+    var fullVersion = userAgent.substring(versionOffset+7);
+    var majorVersion = parseInt(''+fullVersion,10);
+    if (majorVersion >= 42)
+    {
+	var plugins = navigator.plugins;
+	var hasNIPlugin = false;
+	for (var i = 0; i < plugins.length; i++) {
+		if (plugins[i].name.indexOf("National Instruments") != -1) {
+			hasNIPlugin = true;
+		}
+	}
+	if (hasNIPlugin == false) {
+        	document.write('<strong><em>NI has detected that your ' +
+                               'browser might be blocking a plug-in.  '+
+				'This plugin only runs in Microsoft Edge in Internet Explorer mode '+
+				'Please refer to Lab Panel Technical Manual for assistance'+
+                               ')
+	}
+    }
+}
+</Script>
+<TITLE></TITLE>
+</HEAD>
+<BODY >
+<H1></H1>
+<P>
+<TABLE BORDER=1 BORDERCOLOR = #000000><TR><TD>
+<OBJECT ID="LabVIEWControl" CLASSID="CLSID:A40B0AD4-B50E-4E58-8A1D-8544233807B9" WIDTH=1530 HEIGHT=794 CODEBASE="ftp://ftp.ni.com/support/labview/runtime/windows/2017/LVRTE2017min.exe">
+<PARAM name="LVFPPVINAME" value="C:\Program Files (x86)\Lab Panel V6\Lab Panel V6_00.vi">
+<PARAM name="REQCTRL" value=false>
+<EMBED SRC=".LV_FrontPanelProtocol.rpvi170" LVFPPVINAME="C:\Program Files (x86)\Lab Panel V6\Lab Panel V6_00.vi" REQCTRL=false TYPE="application/x-labviewrpvi170" WIDTH=1530 HEIGHT=794  PLUGINSPAGE="http://digital.ni.com/express.nsf/bycode/exck2m">
+</EMBED>
+</OBJECT>
+</TD></TR></TABLE>
+<P>
+
+</BODY>
+</HTML>

@@ -1,0 +1,11 @@
+# Tool code   Size (mm)        No. of holes
+
+  T1             0,762               4
+  T2             0,797              29
+  T3             0,889              50
+  T4             0,914               8
+  T5             1,099               3
+  T6             1,400              13
+  T7             3,200               4
+
+# Total number of holes :          111

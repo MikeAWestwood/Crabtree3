@@ -1,0 +1,70 @@
+LAB03-2	2022/08/01	04:53 PM	4306 2-Gang (soft spring)/Switch  Socket no.1 (L.H.S)	12	1.60	AMPS LO
+LAB03-2	2022/08/02	09:24 AM	4306 2-Gang (soft spring)/Switch  Socket no.1 (L.H.S)	719	119.83	AMPS LO
+LAB03-2	2022/08/02	10:21 AM	4306 2-Gang (soft spring)/Switch  Socket no.1 (L.H.S)	59	9.83	AMPS LO
+LAB03-2	2022/08/02	10:41 AM	4306 2-Gang (soft spring)/Switch  Socket no.1 (R.H.S)	4	0.67	STOP
+LAB02-2	2022/08/02	10:52 AM	6881/001P Duo socket  (type test)/Switch Socket no.3 (L.H.S)	10403	1733.83	AMPS LO
+LAB02-2	2022/08/02	03:48 PM	6881/001P Duo socket  (type test)/Switch Socket no.3 (L.H.S)	1376	229.33	STOP
+LAB04-2	2022/08/02	03:49 PM	6867/001P (Shipment failure)/socket no.1 (L.H.S.) 164-2	12	2.00	AMPS HI
+LAB04-2	2022/08/02	04:52 PM	6867/001P (Shipment failure)/socket no.1 (L.H.S.) 164-2	360	60.00	T-RISE PASS
+LAB02-2	2022/08/02	05:15 PM	6881/001P Duo socket  (type test)/Switch Socket no.3 (L.H.S)	495	82.50	AMPS HI
+LAB05-2	2022/08/03	08:11 AM	4306 bumped/switch socket no.3 (RHS)	1	0.17	STOP
+LAB04-1	2022/08/03	08:12 AM	4306 bumped/switch socket no.3 (RHS)	3	0.50	STOP
+LAB04-2	2022/08/03	08:35 AM	6867/001P (Shipment failure)/socket no.1 (L.H.S.) 164-2	360	60.00	T-RISE PASS
+LAB04-2	2022/08/03	11:15 AM	6867/101/5 (Shipment failure)/socket no.1 (L.H.S.) 164-2	360	60.00	T-RISE PASS
+LAB04-1	2022/08/03	04:04 PM	4306 bumped/switch socket no.3 (RHS)	2811	468.50	AMPS LO
+LAB04-2	2022/08/10	10:27 AM	6867/101/5 (Shipment failure)/socket no.1 (L.H.S.) 164-2	360	60.00	T-RISE PASS
+LAB03-2	2022/08/10	10:46 AM	4306 2-Gang (Instic)/Switch  Socket no.1 (R.H.S)	3	0.50	STOP
+LAB03-2	2022/08/10	10:56 AM	4306 2-Gang (Instic)/Switch  Socket no.1 (R.H.S)	9	1.50	STOP
+LAB04-2	2022/08/10	12:05 PM	6861P (Shipment failure)/socket no.1 	360	60.00	T-RISE PASS
+LAB04-1	2022/08/12	12:00 AM	4306 bumped/switch socket no.3 (RHS)	12190	2031.67	CYCLE PASS
+LAB03-1	2022/08/12	12:05 PM	6867/001P combo socket  (type test)/Switch Socket no.1 (L.H.S.)	3	0.50	STOP
+LAB03-2	2022/08/12	02:58 PM	4306 2-Gang (Instic)/Switch  Socket no.1 (R.H.S)	15001	2500.17	CYCLE PASS
+LAB03-1	2022/08/13	03:55 AM	6867/001P combo socket  (type test)/Switch Socket no.1 (L.H.S.)	4542	757.00	AMPS LO
+LAB04-1	2022/08/13	04:00 AM	4306 (Instic)/switch socket no.4 (RHS)	4686	781.00	AMPS LO
+LAB03-1	2022/08/17	10:58 AM	6867/001P combo socket  (type test)/Switch Socket no.1 (L.H.S.)	983	163.83	AMPS LO
+LAB03-1	2022/08/18	07:39 AM	6867/001P combo socket  (type test)/Switch Socket no.1 (L.H.S.)	59	9.83	AMPS LO
+LAB04-1	2022/08/18	10:06 PM	4306 (Instic)/switch socket no.4 (RHS)	9463	1577.17	AMPS LO
+LAB03-1	2022/08/19	08:39 AM	6867/001P combo socket  (type test)/Switch Socket no.1 (L.H.S.)	18	3.00	AMPS LO
+LAB04-1	2022/08/19	09:56 AM	4306 (Instic)/switch socket no.4 (RHS)	852	142.00	CYCLE PASS
+LAB02-1	2022/08/19	10:25 AM	6881/001P (type test)/Switch socket no.1 (L.H.S)	12	2.00	STOP
+LAB02-1	2022/08/19	11:56 AM	6881/001P (type test)/Switch socket no.1 (L.H.S)	544	90.67	STOP
+LAB02-1	2022/08/20	06:11 AM	6881/001P (type test)/Switch socket no.1 (L.H.S)	6435	1072.50	AMPS HI
+LAB02-1	2022/08/22	07:47 AM	6881/001P (type test)/Switch socket no.1 (L.H.S)	128	21.33	AMPS LO
+LAB02-1	2022/08/22	08:08 AM	6881/001P (type test)/Switch socket no.1 (L.H.S)	17	2.83	AMPS LO
+LAB02-1	2022/08/22	08:51 AM	6881/001P (type test)/Switch socket no.1 (L.H.S)	3	0.50	STOP
+LAB02-1	2022/08/22	09:13 AM	6881/001P (type test)/Switch socket no.1 (L.H.S)	124	20.67	AMPS LO
+LAB02-1	2022/08/23	03:23 AM	6881/001P (type test)/Switch socket no.1 (L.H.S)	6218	1036.33	AMPS HI
+LAB02-1	2022/08/24	02:59 AM	6881/001P (type test)/Switch socket no.1 (L.H.S)	7330	977.33	AMPS LO
+LAB02-1	2022/08/24	07:58 AM	6881/001P (type test)/Switch socket no.1 (L.H.S)	11	1.47	STOP
+LAB02-1	2022/08/24	08:10 AM	6881/001P (type test)/Switch socket no.1 (L.H.S)	79	10.53	AMPS LO
+LAB04-2	2022/08/24	12:16 PM	FCU (plunger with less flash)/Switch no.1 	9	1.20	STOP
+LAB04-2	2022/08/24	12:19 PM	FCU (plunger with less flash)/Switch no.1 	2	0.83	STOP
+LAB04-2	2022/08/24	12:23 PM	FCU (plunger with less flash)/Switch no.1 	11	4.58	CYCLE PASS
+LAB04-2	2022/08/24	12:44 PM	FCU (plunger with less flash)/Switch no.1 	4	0.67	STOP
+LAB03-2	2022/08/24	01:59 PM	FCU (Plunger with less flash)/Switch   no.2	10	1.67	STOP
+LAB04-2	2022/08/25	01:59 AM	FCU (plunger with less flash)/Switch no.1 	4738	789.67	AMPS LO
+LAB02-1	2022/08/25	06:24 PM	6881/001P (type test)/Switch socket no.1 (L.H.S)	12106	2017.67	AMPS HI
+LAB03-2	2022/08/25	11:16 PM	FCU (Plunger with less flash)/Switch   no.2	11891	1981.83	T-RISE HI
+LAB03-2	2022/08/26	07:22 AM	FCU (Plunger with less flash)/Switch   no.2	18	3.00	STOP
+LAB03-2	2022/08/26	07:43 AM	FCU (Plunger with less flash)/Switch   no.2	120	20.00	T-RISE HI
+LAB02-1	2022/08/26	08:15 AM	6881/001P (type test)/Switch socket no.1 (L.H.S)	226	37.67	AMPS HI
+LAB02-1	2022/08/26	08:29 AM	6881/001P (type test)/Switch socket no.1 (L.H.S)	19	3.17	AMPS HI
+LAB05-2	2022/08/26	10:25 AM	FCU/switch No.3 	16	2.67	STOP
+LAB05-2	2022/08/26	10:55 AM	FCU/switch No.3 	171	28.50	AMPS LO
+LAB05-2	2022/08/26	11:01 AM	FCU/switch No.3 	32	5.33	AMPS LO
+LAB03-2	2022/08/26	11:08 AM	FCU (Plunger with less flash)/Switch   no.2	76	12.67	T-RISE HI
+LAB03-2	2022/08/26	12:18 PM	FCU (Plunger with less flash)/Switch   no.2	46	7.67	AMPS LO
+LAB03-2	2022/08/26	12:39 PM	FCU (Plunger with less flash)/Switch   no.2	80	13.33	AMPS LO
+LAB04-2	2022/08/27	01:33 AM	FCU (plunger with less flash)/Switch no.3 	15001	2500.17	CYCLE PASS
+LAB04-2	2022/08/29	10:14 AM	FCU (plunger with less flash)/Switch no.4	1088	181.33	AMPS LO
+LAB03-2	2022/08/29	10:35 AM	FCU (Plunger with less flash)/Switch   no.2	12	2.00	AMPS LO
+LAB05-2	2022/08/29	10:37 AM	FCU/switch No.3 	30	5.00	AMPS LO
+LAB03-2	2022/08/30	12:52 AM	FCU (Plunger with less flash)/Switch   no.5	4977	829.50	T-RISE HI
+LAB03-2	2022/08/30	10:45 AM	FCU (Plunger with less flash)/Switch   no.5	107	17.83	T-RISE HI
+LAB05-2	2022/08/30	10:54 AM	FCU/switch No.6 	8363	1393.83	AMPS LO
+LAB04-2	2022/08/30	10:54 AM	FCU (plunger with less flash)/Switch no.4	8643	1440.50	AMPS LO
+LAB05-2	2022/08/30	12:19 PM	FCU/switch No.6 	427	71.17	AMPS LO
+LAB04-2	2022/08/31	01:53 AM	FCU (plunger with less flash)/Switch no.4	5270	878.33	CYCLE PASS
+LAB05-2	2022/08/31	07:54 AM	FCU/switch No.5	63	10.50	T-RISE HI
+LAB05-2	2022/08/31	09:38 AM	FCU/switch No.5	117	19.50	AMPS LO
+LAB03-1	2022/08/31	02:47 PM	FCU (Plunger with less flash)/Switch no.1 	56	9.33	AMPS LO

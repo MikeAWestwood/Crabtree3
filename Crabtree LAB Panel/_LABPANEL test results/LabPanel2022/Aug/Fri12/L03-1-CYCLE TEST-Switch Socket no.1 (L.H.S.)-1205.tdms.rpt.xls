@@ -1,0 +1,11 @@
+Test Data file : S:\Dept 1\Quality Assurance\testdata\\LabPanel2022\Aug\Fri12\L03-1-CYCLE TEST-Switch Socket no.1 (L.H.S.)-1205.tdms					
+DATE	TIME				
+2022/08/13	03:55 AM				
+SETTINGS	NAME	DESCRIPTION	CYCLES	T-RISE mins	T-RISE deg C
+	6867/001P combo socket  (type test)	Switch Socket no.1 (L.H.S.)	20000	60	45
+RESULT	CYCLE	MINS	STATUS		
+	4542	757	AMPS LO		
+TEST	AMPS	VOLTS	PF		
+	17	257	0.69		
+TEMP RISE	LIVE	NEUTRAL			
+	13	1			

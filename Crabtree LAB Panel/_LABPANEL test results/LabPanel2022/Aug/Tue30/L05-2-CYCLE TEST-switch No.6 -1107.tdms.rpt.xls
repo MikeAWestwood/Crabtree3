@@ -1,0 +1,11 @@
+Test Data file : S:\Dept 1\Quality Assurance\testdata\\LabPanel2022\Aug\Tue30\L05-2-CYCLE TEST-switch No.6 -1107.tdms					
+DATE	TIME				
+2022/08/30	12:19 PM				
+SETTINGS	NAME	DESCRIPTION	CYCLES	T-RISE mins	T-RISE deg C
+	FCU	switch No.6 	6637	60	45
+RESULT	CYCLE	MINS	STATUS		
+	427	71	AMPS LO		
+TEST	AMPS	VOLTS	PF		
+	17	262	0.94		
+TEMP RISE	LIVE	NEUTRAL			
+	34	31			

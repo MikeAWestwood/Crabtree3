@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>How to Automatic Refresh a web page in fixed time?</title>
+</head>
+<body>
+   <h3>How to Automatic Refresh a web page in fixed time?</h3>
+<IMG SRC=FP.jpg>
+   <script>
+      window.onload = () => {
+         console.clear()
+         console.log('page loaded!');
+         setInterval(() => {
+            window.location = window.location.href;
+         }, 2000)
+      }
+   </script>
+</body>
+</html>

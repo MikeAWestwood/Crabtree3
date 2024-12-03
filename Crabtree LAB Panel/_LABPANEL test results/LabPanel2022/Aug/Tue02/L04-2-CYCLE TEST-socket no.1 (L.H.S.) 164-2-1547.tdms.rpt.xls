@@ -1,0 +1,11 @@
+Test Data file : S:\Dept 1\Quality Assurance\testdata\\LabPanel2022\Aug\Tue02\L04-2-CYCLE TEST-socket no.1 (L.H.S.) 164-2-1547.tdms					
+DATE	TIME				
+2022/08/02	03:49 PM				
+SETTINGS	NAME	DESCRIPTION	CYCLES	T-RISE mins	T-RISE deg C
+	6867/001P (Shipment failure)	socket no.1 (L.H.S.) 164-2	20000	60	45
+RESULT	CYCLE	MINS	STATUS		
+	12	2	AMPS HI		
+TEST	AMPS	VOLTS	PF		
+	25	253	0.83		
+TEMP RISE	LIVE	NEUTRAL			
+	5	5			

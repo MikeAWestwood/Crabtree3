@@ -1,0 +1,11 @@
+Test Data file : S:\Dept 1\Quality Assurance\testdata\\LabPanel2022\Apr\Mon25\L02-2-CYCLE TEST- Switch no. AS5-1110.tdms					
+DATE	TIME				
+2022/04/27	06:30 AM				
+SETTINGS	NAME	DESCRIPTION	CYCLES	T-RISE mins	T-RISE deg C
+	FCU	 Switch no. AS5	15000	60	45
+RESULT	CYCLE	MINS	STATUS		
+	12751	2125	AMPS LO		
+TEST	AMPS	VOLTS	PF		
+	15	235	0.70		
+TEMP RISE	LIVE	NEUTRAL			
+	4	4			

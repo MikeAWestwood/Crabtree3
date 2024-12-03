@@ -1,0 +1,11 @@
+Test Data file : S:\Dept 1\Quality Assurance\testdata\\LabPanel2022\Apr\Fri22\L03-1-T-RISE TEST-Socket no. 1-0818.tdms					
+DATE	TIME				
+2022/04/22	08:20 AM				
+SETTINGS	NAME	DESCRIPTION	CYCLES	T-RISE mins	T-RISE deg C
+	6861P	Socket no. 1	15000	60	45
+RESULT	CYCLE	MINS	STATUS		
+	12	2	AMPS LO		
+TEST	AMPS	VOLTS	PF		
+	26	257	0.64		
+TEMP RISE	LIVE	NEUTRAL			
+	6	6			

@@ -1,0 +1,11 @@
+Test Data file : S:\Dept 1\Quality Assurance\testdata\\LabPanel2022\Apr\Mon04\L03-1-T-RISE TEST-Switch No.4-1601.tdms					
+DATE	TIME				
+2022/04/04	05:02 PM				
+SETTINGS	NAME	DESCRIPTION	CYCLES	T-RISE mins	T-RISE deg C
+	Thermal overload 	Switch No.4	5000	60	45
+RESULT	CYCLE	MINS	STATUS		
+	360	60	T-RISE PASS		
+TEST	AMPS	VOLTS	PF		
+	20	263	0.39		
+TEMP RISE	LIVE	NEUTRAL			
+	-23	-23			

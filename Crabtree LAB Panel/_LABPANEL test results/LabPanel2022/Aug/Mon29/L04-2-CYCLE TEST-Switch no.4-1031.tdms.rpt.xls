@@ -1,0 +1,11 @@
+Test Data file : S:\Dept 1\Quality Assurance\testdata\\LabPanel2022\Aug\Mon29\L04-2-CYCLE TEST-Switch no.4-1031.tdms					
+DATE	TIME				
+2022/08/30	10:54 AM				
+SETTINGS	NAME	DESCRIPTION	CYCLES	T-RISE mins	T-RISE deg C
+	FCU (plunger with less flash)	Switch no.4	13912	60	45
+RESULT	CYCLE	MINS	STATUS		
+	8643	1440	AMPS LO		
+TEST	AMPS	VOLTS	PF		
+	14	247	1.11		
+TEMP RISE	LIVE	NEUTRAL			
+	15	14			

@@ -1,0 +1,11 @@
+Test Data file : S:\Dept 1\Quality Assurance\testdata\\LabPanel2022\Aug\Fri19\L04-1-CYCLE TEST-switch socket no.4 (RHS)-0733.tdms					
+DATE	TIME				
+2022/08/19	09:56 AM				
+SETTINGS	NAME	DESCRIPTION	CYCLES	T-RISE mins	T-RISE deg C
+	4306 (Instic)	switch socket no.4 (RHS)	851	60	45
+RESULT	CYCLE	MINS	STATUS		
+	852	142	CYCLE PASS		
+TEST	AMPS	VOLTS	PF		
+	13	250	-0.96		
+TEMP RISE	LIVE	NEUTRAL			
+	10	7			

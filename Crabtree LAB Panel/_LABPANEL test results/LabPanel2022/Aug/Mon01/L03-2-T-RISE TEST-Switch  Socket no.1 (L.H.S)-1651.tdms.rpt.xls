@@ -1,0 +1,11 @@
+Test Data file : S:\Dept 1\Quality Assurance\testdata\\LabPanel2022\Aug\Mon01\L03-2-T-RISE TEST-Switch  Socket no.1 (L.H.S)-1651.tdms					
+DATE	TIME				
+2022/08/01	04:53 PM				
+SETTINGS	NAME	DESCRIPTION	CYCLES	T-RISE mins	T-RISE deg C
+	4306 2-Gang (soft spring)	Switch  Socket no.1 (L.H.S)	20000	60	45
+RESULT	CYCLE	MINS	STATUS		
+	12	2	AMPS LO		
+TEST	AMPS	VOLTS	PF		
+	12	260	0.97		
+TEMP RISE	LIVE	NEUTRAL			
+	7	7			
